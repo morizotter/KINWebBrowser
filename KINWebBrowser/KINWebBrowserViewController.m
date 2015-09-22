@@ -32,8 +32,8 @@
 
 #import "KINWebBrowserViewController.h"
 
-#import "TUSafariActivity.h"
-#import "ARChromeActivity.h"
+#import <TUSafariActivity/TUSafariActivity.h>
+#import <ChromeActivity/ARChromeActivity.h>
 
 static void *KINWebBrowserContext = &KINWebBrowserContext;
 
